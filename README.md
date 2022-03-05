@@ -1,6 +1,6 @@
 # Hi there, I'm Nikola 👋
 - 💻 I'm a Full-Stack Developer.
-- 🚀 Currently working as an Independent Contractor and searching for a cool company to make my home
+- 🚀 Currently working as an Full-Stack Independent Contractor and searching for a cool company to make my home
 - 👨‍🎓 Enrolled at Faculty Computer Science and Mathematics in Serbia.
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
