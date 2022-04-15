@@ -1,6 +1,6 @@
 # Hi there, I'm Nikola 👋
-- 💻 I'm a Full-Stack Developer.
-- 🚀 Currently working as an Full-Stack Independent Contractor, at Hypefy
+- 💻 I'm a Back-end Developer.
+- 🚀 Currently working as an Full-Stack developer/ Tech lead, at [Hypefy](https://www.linkedin.com/company/hypefy-ai/)
 - 👨‍🎓 Enrolled at Faculty Computer Science and Mathematics in Serbia.
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
