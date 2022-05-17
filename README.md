@@ -7,7 +7,7 @@
 
 [![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikola-Milovic&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nikola's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikola-Milovic&layout=compact&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikola's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikola-Milovic&layout=compact&hide=kotlin,c#)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <h3 align="left"><Socials:</h3>
