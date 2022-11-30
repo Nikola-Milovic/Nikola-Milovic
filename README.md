@@ -1,7 +1,7 @@
 # Hi there, I'm Nikola 👋
 - 💻 I'm a Back-end Developer.
 - 🚀 Employed as Golang Developer
-- 👨‍🎓 Enrolled at Faculty Computer Science and Mathematics in Serbia.
+- 👨‍🎓 Enrolled at Faculty of Computer Science and Mathematics in Serbia.
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
 
