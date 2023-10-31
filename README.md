@@ -2,6 +2,7 @@
 - 💻 I'm a Back-end Developer.
 - 🚀 Employed as Golang Developer
 - 👨‍🎓 Enrolled at Faculty of Computer Science and Mathematics in Serbia.
+  - Undergraduate Teaching Assistant 
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
 
