@@ -1,8 +1,7 @@
 # Hi there, I'm Nikola 👋
-- 💻 I'm a Back-end Developer.
-- 🚀 Employed as Golang Developer
-- 👨‍🎓 Enrolled at Faculty of Computer Science and Mathematics in Serbia.
-  - Undergraduate Teaching Assistant 
+- 🚀 Working on my startup, [Seolitic](https://seolitic.com/), Soon™
+- 💼 Employed as Golang Developer
+- 👨‍🎓 BCompSc
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
 
