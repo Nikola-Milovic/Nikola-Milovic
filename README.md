@@ -1,6 +1,6 @@
 # Hi there, I'm Nikola 👋
 - 🚀 Working on my startup, [Seolitic](https://seolitic.com/), Soon™
-- 💼 Employed as Golang Developer
+- 💼 Full-Full-Stack developer 😆 (everything from dev, ops, to infra)
 - 👨‍🎓 BCompSc
 - 📫 Reach me at:
   - nikolamilovic2001@gmail.com
