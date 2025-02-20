@@ -1,9 +1,9 @@
 # Hi there, I'm Nikola 👋
-- 🚀 Working on my startup, [Seolitic](https://seolitic.com/), Soon™
-- 💼 Full-Full-Stack developer 😆 (everything from dev, ops, to infra)
-- 👨‍🎓 BCompSc
+- 🚀 Working on [Seolitic](https://seolitic.com/)
+- 💼 Full-Full-Stack developer (i have to do everything)
+- 👨‍🎓 MSCS
 - 📫 Reach me at:
-  - nikolamilovic2001@gmail.com
+  - nikolamilovic 2001 at gmail.com
 
 <h3 align="left"><Socials:</h3>
 <p align="left">
